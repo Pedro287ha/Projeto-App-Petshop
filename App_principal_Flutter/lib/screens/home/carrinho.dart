@@ -221,7 +221,6 @@ class Cart {
   Cart({required this.product, required this.numOfItem});
 }
 
-// Demo data for our cart
 
 List<Cart> demoCarts = [
   Cart(product: demoProducts[0], numOfItem: 2),
@@ -250,7 +249,7 @@ class Product {
   });
 }
 
-// Our demo Products
+
 
 List<Product> demoProducts = [
   Product(
@@ -306,7 +305,7 @@ List<Product> demoProducts = [
   ),
 ];
 const String description =
-    "Wireless Controller for PS4™ gives you what you want in your gaming from over precision control your games to sharing …";
+    "abc";
 
 const receiptIcon =
     '''<svg width="16" height="20" viewBox="0 0 16 20" fill="none" xmlns="http://www.w3.org/2000/svg">
