@@ -1,4 +1,4 @@
-# 🐾 app principal PETSHOP
+# 🐾 app principal Petshop
 <br>
 
 ## 📜 Descrição
