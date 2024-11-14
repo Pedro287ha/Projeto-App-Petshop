@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../../../constants.dart';
 
-// We need satefull widget for our categories
+
 
 class Categories extends StatefulWidget {
   const Categories({super.key});
@@ -16,7 +16,7 @@ class _CategoriesState extends State<Categories> {
 
   // Eventualmente receber categorias do firebase 
   List<String> categories = ["Racoes", "Colheiras", "Brinquedos", "Roupas"];
-  // By default our first item will be selected
+
   int selectedIndex = 0;
   @override
   Widget build(BuildContext context) {
